@@ -10,3 +10,6 @@
 
 // lists example
 
+int name = "how old are you?";
+int age = 0;
+Console.WriteLine(name);
