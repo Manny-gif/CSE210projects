@@ -9,7 +9,29 @@
 //    print(value)
 
 // lists example
+// public class User
+// {
+//     private string _username;
+//     private int _password;
 
-int name = "how old are you?";
-int age = 0;
-Console.WriteLine(name);
+//     public User(string username, string password)
+//     {
+//         _username = username;
+//         _password = userPassword(password);
+//     }
+
+//     private int userPassword(string password)
+//     {
+//         return password.GetHashCode();
+//     }
+
+//     public bool Authenticate(string passwordAttempt)
+//     {
+//         return _passwordH == userPassword(passwordAttempt);
+//     }
+
+//     public string GetUsername()
+//     {
+//         return _username;
+//     }
+// }
