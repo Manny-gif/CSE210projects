@@ -47,6 +47,9 @@ class Program
         }
     }
     
-
+    private static void displaypersoninformation(PoliceMan myPerson)
+    {
+        Console.WriteLine(myPerson.GetPoliceManInformation());
+    }
 }
 
